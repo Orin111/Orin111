@@ -139,18 +139,6 @@ generate new Random tweets using Markov Chain in C code.
 </tr>
 </table>
 
-# Military Service
-## IT Team Lead at IDF (2016-2018)
-
-📌GLed a team of 30 soldiers responsible for the infantry network in various agencies such as "Mosad", 
-"Shabac" and the chief of staff.
-
-📌 Successfully managed and executed a large-scale project - "The New Pit".
-
-📌Provided leadership for the Juniper Cobra IT team, ensuring seamless communication and data 
-management during joint military exercises
-
-
 # Social links
 
 <p align="center">
@@ -161,3 +149,22 @@ management during joint military exercises
 | Stats                                                                                             | Streak                                                                                                                                                                                | Languages                                                                                                      
 |-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Orin111&theme=gruvbox) | [![GitHub Streak](https://streak-stats.demolab.com/?user=Orin111&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Orin111&theme=gruvbox) |
+
+
+
+<!--  Troffy -->
+## 🥇 Github Trophy
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Orin111" alt="Orin111" /></a> </p>
+
+<!--  Github Status -->
+## 🎯 Github Status
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Orin111&show_icons=true&locale=en&layout=compact" alt="Orin111" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Orin111&show_icons=true&locale=en" alt="Orin111" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Orin111&" alt="Orin111" /></p>
+
+
+## 🐛Github Magic Game
+
+<p align="center">
+  <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
