@@ -142,8 +142,8 @@ generate new Random tweets using Markov Chain in C code.
 # Social links
 
 <p align="center">
-<a href="https://www.linkedin.com/in/orin-pour/"><img src="https://img.shields.io/badge/-amber%20hasan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:OrinPour@gmail.com"><img src="https://img.shields.io/badge/-amberhasan.gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/orin-pour/"><img src="https://img.shields.io/badge/-Orin Pour-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:OrinPour@gmail.com"><img src="https://img.shields.io/badge/-Orin Pour.gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
 | Stats                                                                                             | Streak                                                                                                                                                                                | Languages                                                                                                      
