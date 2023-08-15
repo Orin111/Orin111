@@ -166,5 +166,5 @@ generate new Random tweets using Markov Chain in C code.
 ## 🐛Github Magic Game
 
 <p align="center">
-  <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
