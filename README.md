@@ -79,9 +79,6 @@ generate new Random tweets using Markov Chain in C code.
 
 
 
-<!--  Troffy -->
-## 🥇 Github Trophy
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Orin111" alt="Orin111" /></a> </p>
 
 <!--  Github Status -->
 ## 🎯 Github Status
