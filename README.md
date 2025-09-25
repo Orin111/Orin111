@@ -63,24 +63,7 @@ generate new Random tweets using Markov Chain in C code.
 📌Technologies: OOP, Design, Multi-threading, Linux OS, Git <br>
 📌Web Development: HTML, CSS, JavaScript, Node.js<br>
 
-<table width="80%">
-<tr>
-    <td align='center' width="150">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="100">
-    </td>
 
-  <td align='center' width="150">
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="100">
-    </td>
- <td align='center' width="150">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="100">
-    </td>
- <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
-    </td>
- <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-    </td>
 
 </tr>
 
